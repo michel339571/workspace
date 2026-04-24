@@ -1,0 +1,14 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\bin\Debug\net11.0\travail.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\bin\Debug\net11.0\travail.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\bin\Debug\net11.0\travail.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\bin\Debug\net11.0\travail.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\bin\Debug\net11.0\travail.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\refint\travail.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\travail.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travail\obj\Debug\net11.0\ref\travail.dll

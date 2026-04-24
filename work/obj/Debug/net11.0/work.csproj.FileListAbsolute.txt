@@ -1,0 +1,14 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\bin\Debug\net11.0\work.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\bin\Debug\net11.0\work.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\bin\Debug\net11.0\work.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\bin\Debug\net11.0\work.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\bin\Debug\net11.0\work.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\refint\work.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\work.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\work\obj\Debug\net11.0\ref\work.dll

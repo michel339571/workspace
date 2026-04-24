@@ -1,0 +1,14 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\bin\Debug\net11.0\exo1.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\bin\Debug\net11.0\exo1.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\bin\Debug\net11.0\exo1.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\bin\Debug\net11.0\exo1.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\bin\Debug\net11.0\exo1.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\refint\exo1.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\exo1.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exo1\obj\Debug\net11.0\ref\exo1.dll

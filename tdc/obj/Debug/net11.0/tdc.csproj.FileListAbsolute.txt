@@ -1,0 +1,14 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\bin\Debug\net11.0\tdc.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\bin\Debug\net11.0\tdc.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\bin\Debug\net11.0\tdc.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\bin\Debug\net11.0\tdc.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\bin\Debug\net11.0\tdc.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\refint\tdc.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\tdc.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tdc\obj\Debug\net11.0\ref\tdc.dll

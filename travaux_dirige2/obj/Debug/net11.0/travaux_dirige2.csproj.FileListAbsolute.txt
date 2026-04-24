@@ -1,0 +1,14 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\bin\Debug\net11.0\travaux_dirige2.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\bin\Debug\net11.0\travaux_dirige2.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\bin\Debug\net11.0\travaux_dirige2.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\bin\Debug\net11.0\travaux_dirige2.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\bin\Debug\net11.0\travaux_dirige2.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\refint\travaux_dirige2.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\travaux_dirige2.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\travaux_dirige2\obj\Debug\net11.0\ref\travaux_dirige2.dll

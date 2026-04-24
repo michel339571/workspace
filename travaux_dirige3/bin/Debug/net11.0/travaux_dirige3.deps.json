@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "travaux_dirige3/1.0.0": {
+        "runtime": {
+          "travaux_dirige3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "travaux_dirige3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

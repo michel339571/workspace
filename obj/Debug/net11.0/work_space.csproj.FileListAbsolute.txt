@@ -1,0 +1,4 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\obj\Debug\net11.0\work_space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\obj\Debug\net11.0\work_space.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\obj\Debug\net11.0\work_space.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\obj\Debug\net11.0\work_space.csproj.CoreCompileInputs.cache
