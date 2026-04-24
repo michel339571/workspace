@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\bin\Debug\net11.0\exemple.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\bin\Debug\net11.0\exemple.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\bin\Debug\net11.0\exemple.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\bin\Debug\net11.0\exemple.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\bin\Debug\net11.0\exemple.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\refint\exemple.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\exemple.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exemple\obj\Debug\net11.0\ref\exemple.dll
