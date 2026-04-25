@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\bin\Debug\net11.0\juste_prix.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\bin\Debug\net11.0\juste_prix.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\bin\Debug\net11.0\juste_prix.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\bin\Debug\net11.0\juste_prix.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\bin\Debug\net11.0\juste_prix.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\refint\juste_prix.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\juste_prix.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\juste_prix\obj\Debug\net11.0\ref\juste_prix.dll

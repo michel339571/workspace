@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\exo2Boucle\\exo2Boucle.csproj": {}
+    "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\juste_prix\\juste_prix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\exo2Boucle\\exo2Boucle.csproj": {
+    "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\juste_prix\\juste_prix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\exo2Boucle\\exo2Boucle.csproj",
-        "projectName": "exo2Boucle",
-        "projectPath": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\exo2Boucle\\exo2Boucle.csproj",
+        "projectUniqueName": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\juste_prix\\juste_prix.csproj",
+        "projectName": "juste_prix",
+        "projectPath": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\juste_prix\\juste_prix.csproj",
         "packagesPath": "C:\\Users\\Michel TCHINIANGA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\exo2Boucle\\obj\\",
+        "outputPath": "C:\\Users\\Michel TCHINIANGA\\OneDrive\\Desktop\\work_space\\juste_prix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michel TCHINIANGA\\AppData\\Roaming\\NuGet\\NuGet.Config"
