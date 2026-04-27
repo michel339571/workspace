@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\bin\Debug\net11.0\exoTableau.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\bin\Debug\net11.0\exoTableau.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\bin\Debug\net11.0\exoTableau.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\bin\Debug\net11.0\exoTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\bin\Debug\net11.0\exoTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\refint\exoTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\exoTableau.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\exoTableau\obj\Debug\net11.0\ref\exoTableau.dll

@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\bin\Debug\net11.0\declarationTableau.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\bin\Debug\net11.0\declarationTableau.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\bin\Debug\net11.0\declarationTableau.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\bin\Debug\net11.0\declarationTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\bin\Debug\net11.0\declarationTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\refint\declarationTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\declarationTableau.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\declarationTableau\obj\Debug\net11.0\ref\declarationTableau.dll

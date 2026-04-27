@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\bin\Debug\net11.0\tailleTableau.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\bin\Debug\net11.0\tailleTableau.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\bin\Debug\net11.0\tailleTableau.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\bin\Debug\net11.0\tailleTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\bin\Debug\net11.0\tailleTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\refint\tailleTableau.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\tailleTableau.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\tailleTableau\obj\Debug\net11.0\ref\tailleTableau.dll
