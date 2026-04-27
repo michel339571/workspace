@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exoTableau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c9ede94cbec2a4c5c784f88a438fdbc806767c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e04435bd706e6ecf68fd7560e94bf6f99d7c8252")]
 [assembly: System.Reflection.AssemblyProductAttribute("exoTableau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exoTableau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
