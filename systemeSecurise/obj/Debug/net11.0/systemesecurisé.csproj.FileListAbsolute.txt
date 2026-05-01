@@ -1,0 +1,15 @@
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\bin\Debug\net11.0\systemesecurisé.exe
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\bin\Debug\net11.0\systemesecurisé.deps.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\bin\Debug\net11.0\systemesecurisé.runtimeconfig.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\bin\Debug\net11.0\systemesecurisé.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\bin\Debug\net11.0\systemesecurisé.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.AssemblyInfoInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.AssemblyInfo.cs
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.csproj.CoreCompileInputs.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.sourcelink.json
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\refint\systemesecurisé.dll
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.pdb
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\systemesecurisé.genruntimeconfig.cache
+C:\Users\Michel TCHINIANGA\OneDrive\Desktop\work_space\systemesecurisé\obj\Debug\net11.0\ref\systemesecurisé.dll
